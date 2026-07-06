@@ -18,8 +18,9 @@ Due to extreme skewness and massive operational disparities between production s
 ---
 
 ## Repository Structure
-The analysis is modularized into dedicated documentation files mapping out each step of the analytics pipeline:
-* `MODULE_01_Hypothesis_Formulation.md`: Initial framework setups, metric summaries, and definition of significance parameters.
-* `MODULE_02_Exploratory_Data_Analysis.md`: Data profiling, identifying statistical distribution anomalies, and checking assumptions.
-* `MODULE_03_Regional_Inference.md`: Independent multi-group analysis, automated isolation pipelines, and small-sample power trade-offs.
-* `MODULE_04_Policy_Executive_Brief.md`: Translation of statistical values into actionable executive strategies regarding errors and risk mitigations.
+The analysis is modularized into dedicated documentation files mapping out each step of the analytics pipeline. Click on any module below to view the full details:
+
+* [📁 MODULE_01_Hypothesis_Formulation.md](MODULE_01_Hypothesis_Formulation.md): Initial framework setups, metric summaries, and definition of significance parameters.
+* [📁 MODULE_02_Exploratory_Data_Analysis.md](MODULE_02_Exploratory_Data_Analysis.md): Data profiling, identifying statistical distribution anomalies, and checking assumptions.
+* [📁 MODULE_03_Regional_Inference.md](MODULE_03_Regional_Inference.md): Independent multi-group analysis, automated isolation pipelines, and small-sample power trade-offs.
+* [📁 MODULE_04_Policy_Executive_Brief.md](MODULE_04_Policy_Executive_Brief.md): Translation of statistical values into actionable executive strategies regarding errors and risk mitigations.
